@@ -1,3 +1,4 @@
 YMC RESOLUSI
 - Menguasai PHP secara keseluruhan
 - Menguasai Laravel
+- Menguasai Tailwind CSS
