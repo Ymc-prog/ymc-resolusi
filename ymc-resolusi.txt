@@ -1,0 +1,3 @@
+YMC RESOLUSI
+- Menguasai PHP secara keseluruhan
+- Menguasai Laravel
